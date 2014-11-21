@@ -51,3 +51,8 @@ The paper extends the following two papers:
 [1] K. Zhang, L. Zhang and M. Yang, "Real-time compressive tracking," in Proc. 2012 ECCV'12, pp. 864-877.
 
 ## PFT: Particle Filter based Tracker
+
+
+##Struck
+[1]	S. Hare, A. Saffari, and P. H. S. Torr, "Struck: Structured output tracking with kernels," in Computer Vision (ICCV), 2011 IEEE International Conference on, 2011, pp. 263-270.
+
