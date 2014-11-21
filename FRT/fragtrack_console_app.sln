@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fragtrack_console_app", "fragtrack_console_app.vcxproj", "{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug64 Itanium|Win32 = Debug64 Itanium|Win32
+		Debug64|Win32 = Debug64|Win32
+		Release|Win32 = Release|Win32
+		Release64 Itanium|Win32 = Release64 Itanium|Win32
+		Release64|Win32 = Release64|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug|Win32.Build.0 = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug64 Itanium|Win32.ActiveCfg = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug64 Itanium|Win32.Build.0 = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug64|Win32.ActiveCfg = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Debug64|Win32.Build.0 = Debug|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release|Win32.ActiveCfg = Release|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release|Win32.Build.0 = Release|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release64 Itanium|Win32.ActiveCfg = Release|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release64 Itanium|Win32.Build.0 = Release|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release64|Win32.ActiveCfg = Release|Win32
+		{E8BA93B1-A2FB-4DD6-862B-8FD9C8506F1E}.Release64|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

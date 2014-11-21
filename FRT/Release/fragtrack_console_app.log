@@ -1,0 +1,27 @@
+﻿生成启动时间为 2014/11/18 14:22:38。
+     1>项目“D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\fragtrac.E8BA93B1.tlog\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\libs\opencv\build\include\ /ID:\libs\opencv\build\include\opencv /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MT /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Fragments_Tracker.cpp
+         Fragments_Tracker.cpp
+     1>d:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\emd.h(22): warning C4005: “INFINITY”: 宏重定义
+                 D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\math.h(102) : 参见“INFINITY”的前一个定义
+     1>Fragments_Tracker.cpp(200): warning C4018: “<”: 有符号/无符号不匹配
+     1>Fragments_Tracker.cpp(309): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Fragments_Tracker.cpp(310): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>Fragments_Tracker.cpp(353): warning C4018: “<”: 有符号/无符号不匹配
+     1>Fragments_Tracker.cpp(485): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:D:\libs\opencv\build\x86\vc12\lib opencv_core249.lib opencv_highgui249.lib opencv_imgproc249.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:"libc.lib libcp.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.lib" /MACHINE:X86 /SAFESEH Release\emd.obj
+         Release\Fragments_Tracker.obj
+         Release\fragtrack_envelope.obj
+         fragtrack_console_app.vcxproj -> D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.exe
+       FinalizeBuildStatus:
+         正在删除文件“Release\fragtrac.E8BA93B1.tlog\unsuccessfulbuild”。
+         正在对“Release\fragtrac.E8BA93B1.tlog\fragtrack_console_app.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\works\visual_tracking_compare\fragtrack_console_app\fragtrack_console_app\fragtrack_console_app.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.50

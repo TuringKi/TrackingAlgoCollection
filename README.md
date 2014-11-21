@@ -56,3 +56,5 @@ The paper extends the following two papers:
 ##Struck
 [1]	S. Hare, A. Saffari, and P. H. S. Torr, "Struck: Structured output tracking with kernels," in Computer Vision (ICCV), 2011 IEEE International Conference on, 2011, pp. 263-270.
 
+##FRT
+[1]	A. Adam, E. Rivlin, and I. Shimshoni, "Robust Fragments-based Tracking using the Integral Histogram," in Computer Vision and Pattern Recognition, 2006 IEEE Computer Society Conference on, 2006, pp. 798-805.
